@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "users",
+      "type": "sat.recruitment.api.utils.YamlPropertySourceFactory",
+      "sourceType": "sat.recruitment.api.utils.YamlPropertySourceFactory"
+    }
+  ],
+  "properties": [
+    {
+      "name": "users.max-money-value",
+      "type": "java.lang.Double",
+      "sourceType": "sat.recruitment.api.utils.YamlPropertySourceFactory"
+    },
+    {
+      "name": "users.min-money-value",
+      "type": "java.lang.Double",
+      "sourceType": "sat.recruitment.api.utils.YamlPropertySourceFactory"
+    }
+  ],
+  "hints": []
+}
